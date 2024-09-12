@@ -1,3 +1,4 @@
+![logo](https://github.com/Sanuroy027/sanuroy027/blob/main/Github%20profile%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sanu Kumar Roy</h1>
 <h3 align="center">Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.</h3>
 
