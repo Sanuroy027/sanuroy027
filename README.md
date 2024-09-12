@@ -11,22 +11,14 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1loQWQLxdkAzdpG9tchThrynBhM9zDtGM/view?usp=drive_link](https://drive.google.com/file/d/1loQWQLxdkAzdpG9tchThrynBhM9zDtGM/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanu-kumar-roy-802b16229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanu-kumar-roy-802b16229/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/____sam__27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/____sam__27/" height="30" width="40" /></a>
-</p>
-
 <table>
     <tbody>
         <tr>
-            <td><a href="https://medium.com/@zluvsand">
-            <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />
-            </a></td>
-            <td><a href="https://www.linkedin.com/in/zluvsand/">
+            <td><a href="https://www.linkedin.com/in/sanu-kumar-roy-802b16229/">
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
             </a></td>
-            <td><a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
-            <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
+            <td><a href="https://www.instagram.com/____sam__27/">
+            <img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Finstagram-logo&psig=AOvVaw0chZZU9YKvwQJKxnu2AQLO&ust=1726229262214000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDP9qCvvYgDFQAAAAAdAAAAABAE"/>
             </a></td>
         </tr>
     </tbody>
