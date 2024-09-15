@@ -4,9 +4,9 @@
 
 - 🔭 I’m current work [Iphone16 landing page](https://iphone16-landing-page.netlify.app/)
 
-- 🌱 I’m currently learning **New technologies **
+- 🌱 I’m currently learning New technologies 
 
-- 📫  Reach me :- **sanuroy2745@gmail.com**
+- 📫  Reach me :- sanuroy2745@gmail.com
 
 - 📄 My Resume :- [https://drive.google.com/file/d/1loQWQLxdkAzdpG9tchThrynBhM9zDtGM/view?usp=drive_link](https://drive.google.com/file/d/1loQWQLxdkAzdpG9tchThrynBhM9zDtGM/view?usp=drive_link)
 
