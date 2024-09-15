@@ -15,7 +15,7 @@
     <tbody>
         <tr>
             <td><a href="https://www.linkedin.com/in/sanu-kumar-roy-802b16229/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
             </a></td>
             <td><a href="https://www.instagram.com/____sam__27/">
             <img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
