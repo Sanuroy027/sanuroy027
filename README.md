@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **New technologies **
 
-- 📫  Reach me **sanuroy2745@gmail.com**
+- 📫  Reach me :- **sanuroy2745@gmail.com**
 
-- 📄 My Resume  [https://drive.google.com/file/d/1loQWQLxdkAzdpG9tchThrynBhM9zDtGM/view?usp=drive_link](https://drive.google.com/file/d/1loQWQLxdkAzdpG9tchThrynBhM9zDtGM/view?usp=drive_link)
+- 📄 My Resume :- [https://drive.google.com/file/d/1loQWQLxdkAzdpG9tchThrynBhM9zDtGM/view?usp=drive_link](https://drive.google.com/file/d/1loQWQLxdkAzdpG9tchThrynBhM9zDtGM/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <table>
