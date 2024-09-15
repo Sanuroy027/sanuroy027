@@ -24,7 +24,7 @@
     </tbody>
 </table> 
 <table>
-    - Java
+   <h2 align="left">Languages</h2>
 </table>
  
 </p>
