@@ -4,7 +4,7 @@
 
 - 🔭 I’m current work [Iphone16 landing page](https://iphone16-landing-page.netlify.app/)
 
-- 🌱 I’m currently learning New technologies 
+- 🌱 I’m currently learning new technologies in web development 
 
 - 📫  Reach me :- sanuroy2745@gmail.com
 
