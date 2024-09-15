@@ -18,7 +18,7 @@
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
             </a></td>
             <td><a href="https://www.instagram.com/____sam__27/">
-            <img height="50" src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/instagram/index.html&backText=Return+to+VectorLogoZone"/>
+            <img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"/>
             </a></td>
         </tr>
     </tbody>
