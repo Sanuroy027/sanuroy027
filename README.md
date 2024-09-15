@@ -11,7 +11,7 @@
 - 📄 My Resume :- [https://drive.google.com/file/d/1loQWQLxdkAzdpG9tchThrynBhM9zDtGM/view?usp=drive_link](https://drive.google.com/file/d/1loQWQLxdkAzdpG9tchThrynBhM9zDtGM/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
-<table>
+<table backgroundcolor="red">
     <tbody>
         <tr>
             <td><a href="https://www.linkedin.com/in/sanu-kumar-roy-802b16229/">
