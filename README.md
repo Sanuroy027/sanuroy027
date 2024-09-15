@@ -18,7 +18,7 @@
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
             </a></td>
             <td><a href="https://www.instagram.com/____sam__27/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"/>
+            <img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
             </a></td>
         </tr>
     </tbody>
