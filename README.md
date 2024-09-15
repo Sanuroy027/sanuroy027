@@ -18,11 +18,11 @@
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
             </a></td>
             <td><a href="https://www.instagram.com/____sam__27/">
-            <img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Finstagram-logo&psig=AOvVaw0chZZU9YKvwQJKxnu2AQLO&ust=1726229262214000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDP9qCvvYgDFQAAAAAdAAAAABAE"/>
+            <img height="50" src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/instagram/index.html&backText=Return+to+VectorLogoZone"/>
             </a></td>
         </tr>
     </tbody>
 </table> 
-  im
+ 
 </p>
 
