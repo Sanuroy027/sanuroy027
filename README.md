@@ -24,7 +24,7 @@
     </tbody>
 </table> 
 <table>
-   <h2 align="left">Languages</h2>
+   <h2 align="left">Technical Skills</h2>
     <div align="left">
 	<div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
@@ -41,7 +41,7 @@
 </div>
 </table>
 <table>
-   <h2 align="left">Languages</h2>
+   <h2 align="left">Design Software </h2>
     <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/></code>
