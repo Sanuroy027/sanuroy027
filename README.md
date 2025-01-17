@@ -1,4 +1,4 @@
-![logo](https://github.com/Sanuroy027/sanuroy027/blob/main/Github%20profile%20Banner.png)
+![logo](https://github.com/Sanuroy027/sanuroy027/blob/main/github-header-image%20(1).png)
 
 <h3 align="center">Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.</h3>
 
